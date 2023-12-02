@@ -24,7 +24,7 @@ df = get_stock_data(stock_symbol, start, end)
 
 
 
-
+browser.gatherUsageStats = false
 
 # -------------------to this end
 st.subheader("Stock Price Data")
